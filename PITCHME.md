@@ -9,15 +9,15 @@ _paginate: false
 
 ![bg](./assets/gradient.jpg)
 
-# <!--fit--> Marp CLI example
+# <!--fit--> Marp CLI 例子
 
-Hosting Marp slide deck on the web
+托管 Marp slide deck 在服务器上
 
 https://github.com/yhatt/marp-cli-example
 
 <style scoped>a { color: #eee; }</style>
 
-<!-- This is presenter note. You can write down notes through HTML comment. -->
+<!-- 这是一个注释文件 This is presenter note. You can write down notes through HTML comment. -->
 
 ---
 
