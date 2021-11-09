@@ -13,7 +13,7 @@ _paginate: false
 
 托管 Marp slide deck 在服务器上
 
-https://github.com/yhatt/marp-cli-example
+https://github.com/h5wawaji/marp-cli-example
 
 <style scoped>a { color: #eee; }</style>
 
@@ -40,7 +40,7 @@ https://github.com/yhatt/marp-cli-example
 
 #### Ready to write & host your deck!
 
-[![Use this as template h:1.5em](https://img.shields.io/badge/-Use%20this%20as%20template-brightgreen?style=for-the-badge&logo=github)](https://github.com/yhatt/marp-cli-example/generate)
+[![Use this as template h:1.5em](https://img.shields.io/badge/-Use%20this%20as%20template-brightgreen?style=for-the-badge&logo=github)](https://github.com/h5wawaji/marp-cli-example/generate)
 
 ---
 
@@ -50,7 +50,7 @@ https://github.com/yhatt/marp-cli-example
 
 #### Ready to write & host your deck!
 
-[![Deploy to Netlify h:1.5em](./assets/netlify-deploy-button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/yhatt/marp-cli-example)
+[![Deploy to Netlify h:1.5em](./assets/netlify-deploy-button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/h5wawaji/marp-cli-example)
 
 ---
 
@@ -60,7 +60,7 @@ https://github.com/yhatt/marp-cli-example
 
 #### Ready to write & host your deck!
 
-[![Deploy to Vercel h:1.5em](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/yhatt/marp-cli-example)
+[![Deploy to Vercel h:1.5em](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/h5wawaji/marp-cli-example)
 
 ---
 
@@ -70,6 +70,6 @@ https://github.com/yhatt/marp-cli-example
 
 ![bg 40% opacity blur](https://avatars1.githubusercontent.com/u/3993388?v=4)
 
-### Created by Yuki Hattori ([@yhatt](https://github.com/yhatt))
+### Created by Yuki Hattori ([@yhatt](https://github.com/h5wawaji))
 
-https://github.com/yhatt/marp-cli-example
+https://github.com/h5wawaji/marp-cli-example
