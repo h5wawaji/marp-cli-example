@@ -2,7 +2,7 @@
 marp: true
 title: Marp CLI example
 description: Hosting Marp slide deck on the web
-theme: uncover
+theme: default
 paginate: true
 _paginate: false
 ---
