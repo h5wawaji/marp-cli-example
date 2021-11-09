@@ -30,7 +30,7 @@ https://github.com/yhatt/marp-cli-example
 
 ##### <!--fit--> [Marp CLI](https://github.com/marp-team/marp-cli) + [GitHub Pages](https://github.com/pages) | [Netlify](https://www.netlify.com/) | [Vercel](https://vercel.com/)
 
-##### <!--fit--> 👉 The easiest way to host<br />your Marp deck on the web
+##### <!--fit--> 👉 最简单的方法托管<br />贵公司的 deck 在web上
 
 ---
 
