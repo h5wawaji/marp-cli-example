@@ -145,6 +145,6 @@ _paginate: false
 
 ![bg 40% opacity blur](http://cslz.k58.com.cn/3cuc_admin/a/fl/cm0001/doc/logo.png)
 
-### Created by jianbig zheng  ([@yhatt](https://github.com/h5wawaji))
+### Created by jianbing zheng  ([@h5wawaji](https://github.com/h5wawaji))
 
 POWER BY https://github.com/yhatt/marp-cli-example
