@@ -48,6 +48,30 @@ _paginate: false
 
 ---
 
+![bg right 60%](http://qn.h5wawaji.com/2051deb3d587547a289448f3796f2bde8d5504033e8f17763da2308990cff844.png)
+
+## **[智能数据采集器](http://cslz.k58.com.cn/3cuc_admin/a/fl/cm0001/jxs2/menu.php)**
+
+#### 双码:厂家码和自营码
+#### 大小箱对应,精准兼容
+#### 发货扫大箱,轻快省事
+
+
+ 
+---
+
+![双码发货 bg right 60%](http://qn.h5wawaji.com/531e6e4406e74353b21693c2f7f5b1c4c9d6973a1ae35038e0ee9d61dada4ea9.png)  
+
+## **[数据采集器](http://cslz.k58.com.cn/3cuc_admin/a/fl/cm0001/jxs2/menu.php)**
+
+#### 根据前缀自动识别双码
+#### 自动下拉产品无需手输
+#### 提示产品剩余发货数量
+#### 万能关键词搜索经销商
+减少人为失误，简单易学
+
+---
+
 ![bg right 60%](http://cslz.k58.com.cn/3cuc_admin/a/fl/cm0001/doc/jxs.png)
 
 ## **[经销商端](http://cslz.k58.com.cn/3cuc_admin/a/fl/cm0001/jxs2/menu.php)**
@@ -79,9 +103,10 @@ _paginate: false
 
 ---
 
-![bg right 60%](http://cslz.k58.com.cn/3cuc_admin/a/fl/cm0001/doc/jubao.png)
+![bg right 60%](http://qn.h5wawaji.com/112bbe0a7c674b9ee798753c575ebbb53a15495ba60062a89dd7e0813ff9bb41.png)
 
-## **[市场管理](cslz.k58.com.cn/3cuc_admin/a/fl/cm0001/jxs2/.php)**
+## **[市场管理](cslz.k58.com.cn/3cuc_admin/a/fl/cm0001/jxs2/jubao.php)**
+
 
 #### 物流查询
 #### **窜货取证**
