@@ -1,6 +1,6 @@
 ---
 marp: true
-title: 全程渠道自营市场管理(防窜货系统)
+title: 唯选经销商市场管理(防窜货系统)
 description: 经销商自营市场控价系统
 theme: uncover
 paginate: true
@@ -9,7 +9,7 @@ _paginate: false
 
 ![bg](http://cslz.k58.com.cn/3cuc_admin/a/fl/cm0001/doc/gradient.jpg)
 
-# <!--fit--> [渠道市场管理体系](https://marp-cli-example-six.vercel.app)
+# <!--fit--> [经销商市场管理](https://marp-cli-example-six.vercel.app)
 
 本文讲述独立区域渠道商自建的市场管理系统
 
